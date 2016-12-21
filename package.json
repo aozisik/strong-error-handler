@@ -2,7 +2,7 @@
   "name": "strong-error-handler",
   "description": "Error handler for use in development and production environments.",
   "license": "MIT",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/strongloop/strong-error-handler.git"
@@ -18,6 +18,7 @@
     "debug": "^2.2.0",
     "ejs": "^2.4.2",
     "http-status": "^0.2.2",
+    "js2xmlparser": "^2.0.2",
     "strong-globalize": "^2.6.7"
   },
   "devDependencies": {
